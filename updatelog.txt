@@ -1,3 +1,2 @@
 --Updates--
-There are none currently,
-have a nice day!
+Fixed splashtext anchor
