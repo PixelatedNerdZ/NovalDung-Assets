@@ -1,4 +1,4 @@
 --This is your captain speaking!!--
-Welcome to the modpack! I'm so glad to have you here!
-There's nothin much as this is a new project of mine that's being
-updated constantly so, yeah. Have fun!
+This is the developer build of the modpack!
+This is mainly used to test compatibility
+for mods and to test changes.
