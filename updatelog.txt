@@ -1,2 +1,2 @@
 --Updates--
-Fixed splashtext anchor
+Added squished, pipebomb, and plushie mod :3
